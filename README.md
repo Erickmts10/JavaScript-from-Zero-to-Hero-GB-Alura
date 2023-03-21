@@ -1,6 +1,6 @@
 <h1 align="center"> JavaScript-from-Zero-to-Hero-GB-Alura </h1>
 
-![logo JavaScript](https://user-images.githubusercontent.com/81599139/216068968-80126527-1114-4f9a-90e4-9c78da355aad.png)
+![logo JavaScript](https://github.com/Erickmts10/JavaScript-from-Zero-to-Hero-GB-Alura/blob/main/Logo/Logo.png)
 
 <h3>:star: Descrição do Projeto</h3>
  
