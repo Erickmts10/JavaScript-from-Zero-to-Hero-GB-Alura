@@ -1,4 +1,4 @@
-<h1 align="center"> JavaScript-from-Zero-to-Hero---GB-Alura </h1>
+<h1 align="center"> JavaScript-from-Zero-to-Hero-GB-Alura </h1>
 
 ![logo JavaScript](https://user-images.githubusercontent.com/81599139/216068968-80126527-1114-4f9a-90e4-9c78da355aad.png)
 
@@ -32,5 +32,3 @@ Exercicios desenvolvidos com a proposta de praticar os conceitos básicos de log
 <h5>break:heavy_check_mark:</h5>
 <h5>querySelector:heavy_check_mark:</h5>
 <h5>array:heavy_check_mark:</h5>
-
-<
